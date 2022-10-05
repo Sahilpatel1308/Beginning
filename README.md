@@ -1,2 +1,2 @@
 # Beginning
-Starting my journey of python development
+Starting my journey of python development.
