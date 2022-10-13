@@ -5,4 +5,4 @@ for number in range (2, n+1):
     if number%4 == 0:
             continue
     print ( number )
-    
+                
