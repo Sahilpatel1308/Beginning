@@ -6,4 +6,4 @@ l = n.split(",")
 c = len(l)
 p = random.randint(0, c-1)
 r = l[p]
-print (f"The bill will be paid by {r}.")
+print ("The bill will be paid by " + r + ".")
