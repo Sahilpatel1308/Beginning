@@ -5,5 +5,3 @@ d = r*365
 w = r*52
 m = r*12
 print(f"You have {d} days, {w} weeks, and {m} months left")
-
-
